@@ -35,3 +35,24 @@ markdown on github
 
 this text is not quote
 > the text is quote
+
+## 引用代码
+
+以``包裹的片段不会被格式化
+
+```markdown
+`git commit`
+```
+
+以连续的三个`表示代码块
+
+```markdown
+ git status
+ git add
+ git commit
+```
+
+## colors
+
+似乎支持不好，暂时跳过此节
+`#000000`
