@@ -56,3 +56,19 @@ this text is not quote
 
 似乎支持不好，暂时跳过此节
 `#000000`
+
+## 链接
+
+```markdown
+[文本](https://github.com/butterswings/markdown)
+```
+
+[文本](https://github.com/butterswings/markdown)
+
+## 章节链接
+
+```markdown
+[跳转至总标题](#markdown)
+```
+
+[跳转至总标题](#markdown)
