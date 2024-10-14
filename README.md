@@ -125,3 +125,15 @@ git commit
 - [x] 完成markdown on github
 
 如果要以括号为文本开头需要使用\字符进行转义
+
+## 提及人员和团队
+
+- [见github](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams)
+
+## 引用议题和拉取请求
+
+- [见github](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#referencing-issues-and-pull-requests)
+
+## 引用外部资源
+
+- [见GitHub](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#referencing-external-resources)
