@@ -47,9 +47,9 @@ this text is not quote
 以连续的三个`表示代码块
 
 ```markdown
- git status
- git add
- git commit
+git status
+git add
+git commit
 ```
 
 ## colors
@@ -72,3 +72,38 @@ this text is not quote
 ```
 
 [跳转至总标题](#markdown)
+
+## 相对链接
+
+对于克隆的仓库，如果持有者使用绝对链接，则会产生问题，使用相对链接利好仓库克隆
+
+```markdown
+[相对链接](./README.md)
+```
+
+[相对链接](./README.md)
+
+## 自定义定位点
+
+<a name="my-custom-anchor-point">自定义定位点</a>
+
+```markdown
+<a name="my-custom-anchor-point"></a>
+```
+
+[测试自定义定位点](#my-custom-anchor-point)
+
+## IMAGE
+
+```markdown
+![](./assets/nvim.png)
+```
+
+![Nvim](./assets/nvim.png)
+
+- 其他特殊仓库图像链接
+![other_images_usage](./assets/other_images_usage.png)
+
+## [指定图像显示的主题](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to)
+
+此处不常见，详情见链接
