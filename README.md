@@ -137,3 +137,54 @@ git commit
 ## 引用外部资源
 
 - [见GitHub](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#referencing-external-resources)
+
+## emoji
+
+```markdown
+:+1:
+```
+
+以:包裹的表情，[其他表情](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+:+1:
+
+## 段落
+
+以空行划分出新的段落
+
+段落1
+
+段落2
+
+## 脚注
+
+去往脚注1[^1]
+
+去往脚注2[^2]
+
+[^1]: 这是脚注一
+[^2]: 这是脚注二
+
+## 警报
+
+```markdown
+[!NOTE]
+
+[!TIP]
+
+[!IMPORTANT]
+
+[!WARNING]
+
+[!CAUTION]
+```
+
+[!NOTE]
+
+[!TIP]
+
+[!IMPORTANT]
+
+[!WARNING]
+
+[!CAUTION]
