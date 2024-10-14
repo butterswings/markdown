@@ -168,23 +168,28 @@ git commit
 ## 警报
 
 ```markdown
-[!NOTE]
+> [!NOTE]
 
-[!TIP]
+> [!TIP]
 
-[!IMPORTANT]
+> [!IMPORTANT]
 
-[!WARNING]
+> [!WARNING]
 
-[!CAUTION]
+> [!CAUTION]
 ```
 
-[!NOTE]
-
-[!TIP]
-
-[!IMPORTANT]
-
-[!WARNING]
-
-[!CAUTION]
+> [!NOTE]
+> NOTE here
+---
+> [!TIP]
+> TIP here
+---
+> [!IMPORTANT]
+> IMPORTANT here
+---
+> [!WARNING]
+> WARNING here
+---
+> [!CAUTION]
+> CAUTION here
