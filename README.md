@@ -107,3 +107,21 @@ git commit
 ## [指定图像显示的主题](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to)
 
 此处不常见，详情见链接
+
+## 列表
+
+- 使用-，*，+来标识无序列表
+- 使用1. 2. 3. ...... n.标识顺序列表
+- 两种列表可以使用缩进任意嵌套
+
+## 任务列表
+
+```markdown
+- [ ] 完成markdown on github
+- [x] 完成markdown on github
+```
+
+- [ ] 完成markdown on github
+- [x] 完成markdown on github
+
+如果要以括号为文本开头需要使用\字符进行转义
